@@ -1,0 +1,13 @@
+Tonkotsu 
+Medium 
+A_lot 
+Yes 
+Yes 
+No 
+1 
+null 
+add_on_chashu 2.0 
+add_on_egg 1.0 
+null 
+Take_away 
+12.99 

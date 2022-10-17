@@ -1,0 +1,21 @@
+Spring_onion------------------
+A_lot  : 21
+Just_a_little  : 2
+No,please  : 2
+ingredient------------------
+Nori  : 24
+Chashu  : 22
+Egg  : 24
+spiciness------------------
+0  : 19
+1  : 3
+2  : 1
+3  : 1
+4  : 0
+5  : 1
+The most popluar spiciness is 0
+Add-on------------------
+add_on_nori  : 1
+add_on_chashu  : 5
+add_on_egg  : 3
+add_on_shoots  : 4

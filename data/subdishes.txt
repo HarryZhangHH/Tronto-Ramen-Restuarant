@@ -1,0 +1,11 @@
+1 Soup Tonkotsu Shoyu Shio 
+1 Noodles Soft Medium Firm 
+1 Spring_onion A_lot Just_a_little No,please 
+2 Nori
+2 Chashu
+2 Egg
+3 Spiciness 0 5 
+4 add_on_nori 1.0
+4 add_on_chashu 2.0
+4 add_on_egg 1.0
+4 add_on_shoots 1.0
